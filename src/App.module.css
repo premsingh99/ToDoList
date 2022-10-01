@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+
+
+.addTask {
+  background-color: steelblue;
+  font-size: 25px;
+  height: 25%;
+}
+
+.list {
+  background-color: steelblue ;
+  color: red;
+}
